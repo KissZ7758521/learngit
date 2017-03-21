@@ -1,8 +1,2 @@
 Git learning
-<<<<<<< HEAD
-ssssssssss
-=======
-dfsdf 
-add a new branch 'dev'
->>>>>>> dev
-
+clear all
